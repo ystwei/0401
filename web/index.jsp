@@ -11,9 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-
-
-
+    你好
   $END$
   </body>
 </html>
